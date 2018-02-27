@@ -3,6 +3,8 @@ This repository contains miscellaneous code/projects not significant enough to w
 Python
 ==================================================================
 - **eea.py** - An implementation of the extended euclidean algorithm in python.
+- **yearConvert.py** - Converts a given number of years into the equivalent in days, hours, minutes, and seconds all seperately.
+
 
 OpenGL (C/C++)
 ==================================================================
