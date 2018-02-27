@@ -4,5 +4,7 @@ Python
 ==================================================================
 - **eea.py** - An implementation of the extended euclidean algorithm in python.
 
-OpenGL (C++)
+OpenGL (C/C++)
 ==================================================================
+- **Rectangle** - Opens a window, clears it to black, and draws a rectangle each time the left mouse button is clicked, dragged, and released.
+- **squarePaint** - Opens a windows, clears it to black, and draws small squares for as long as the left mouse button is held and dragged.
